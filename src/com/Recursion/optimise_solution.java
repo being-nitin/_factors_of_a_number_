@@ -26,4 +26,6 @@ public class optimise_solution {
 }
 
 /*
+i have used arraylist to store the factors with n/i that is the number with biggest factor
+to print it in ascending order used arraylist
  */
